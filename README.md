@@ -1,4 +1,4 @@
-This Repository contains the foundational materials and basic project information for this project
+This Repository contains the foundational materials and basic project information for this project.
 
 Electrocardiogram (ECG) is one of the most widely used non-invasive techniques for assessing the 
 electrical activity of the human heart. However, ECG signals are often contaminated with noise, vary 
